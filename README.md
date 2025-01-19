@@ -33,6 +33,7 @@ Example (Lab 3):
 
 More detailed submission instructions can be found via the [lab page](https://parsa-rajabi.github.io/CS-5500/#/labs).
 
+My AI Usage Disclosure MS Form link: https://github.com/CS-5500-SPRING-2025/lab-1-MeihaoC/blob/main/L1_AI_Declaration_Meihao_Cheng_002607413.pdf
 
 ## Task 1: Prepare your System (1 mark)
 
