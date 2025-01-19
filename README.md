@@ -38,9 +38,15 @@ More detailed submission instructions can be found via the [lab page](https://pa
 
 Include screenshots as described in the [Lab 1](L1.md) file.
 
+<img width="1323" alt="Screenshot 2025-01-18 at 6 36 08 PM" src="https://github.com/user-attachments/assets/c91ff2ac-e076-4d00-a939-7ba911f78e3a" />
+
 ## Task 2: GitHub Tutorial (24 marks)
 
 Include screenshots as described in the [Lab 1](L1.md) file.
+
+<img width="1440" alt="Screenshot 2025-01-18 at 6 37 32 PM" src="https://github.com/user-attachments/assets/299a457a-ba14-42f8-b5a6-d89b684886b7" />
+
+<img width="1440" alt="Screenshot 2025-01-18 at 6 37 39 PM" src="https://github.com/user-attachments/assets/dfcd4178-c565-47c2-b463-f7ac9541c81e" />
 
 ## Task 3: Lab Questions (11 marks)
 
