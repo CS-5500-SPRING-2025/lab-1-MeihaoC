@@ -48,23 +48,43 @@ Include answers as described in the [Lab 1](L1.md) file:
 
 ### Q1
 
+Git is a tool for version control, which helps track code changes and supports teamwork. GitHub is a platform where we can host and share projects managed by Git. So, Git is like the tool, and GitHub is like its online home.
+
 ### Q2
 
+A distributed version control system, like Git, allows everyone on the team to have a full copy of the project on their computer. This way, even if there is no connection to a central server, we can still work and track changes locally.
+
 ### Q3
+
+Modified: The file has been changed, but Git doesn’t know about it yet.
+Staged: The changes are prepared to be saved but are still in the staging area.
+Committed: The changes are saved in Git’s history, and you can share them with others.
 
 ### Q4
 
 #### Q4 (i)
 
+Copy a repository from GitHub or another remote to your local computer.
+
 #### Q4 (ii)
+
+Show the current status of the repository, like what has been changed or staged.
 
 #### Q4 (iii)
 
+Get updates from a remote repository but don’t merge them automatically.
+
 #### Q4 (iv)
+
+Create a new Git repository in the current folder to start tracking files.
 
 #### Q4 (v)
 
+Show the history of commits to see what changes have been made and by whom.
+
 ### Q5
+
+A .gitignore file tells Git which files or folders it should ignore.
 
 ## Task 4: Video Questions (4 marks)
 
@@ -72,4 +92,8 @@ Include answers as described in the [Lab 1](L1.md) file.
 
 ### Q1
 
+This video explains the Software Development Life Cycle (SDLC), which has seven phases: planning, requirement analysis, design, implementation and coding, testing, deployment, and maintenance. It starts with the customer’s idea, where the team gathers and defines the app’s requirements. Next, the design and coding phases focus on building the system, and testers ensure everything works as expected. After testing, the app is deployed for real users. In the maintenance phase, bugs are fixed, the system is improved, and new features are added, repeating the SDLC process.
+
 ### Q2
+
+The Software Development Life Cycle (SDLC) is important because it helps teams build software step by step in an organized way. It makes sure every part of the project—like planning, designing, coding, and testing—is done carefully and nothing is missed. This helps the team deliver software that works well, meets user needs, and can be easily fixed or improved later. Without SDLC, projects can become messy and have more mistakes.
